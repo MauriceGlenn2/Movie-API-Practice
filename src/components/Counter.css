@@ -1,0 +1,25 @@
+
+.btn{
+    border: 1px solid black;
+    padding: 16px;
+    padding: 8px 32px;
+    cursor: pointer;
+    border-radius: 4px;
+    background-color: #7645d9;
+    color: white;
+    border: 1px solid #7645d9;
+  }
+
+
+p{
+    color: red;
+    margin-bottom: 8px;
+    font-size: 18px;
+    display: flex;
+    font-size: 32px;
+    padding: 24px ;
+}
+
+.num__change{
+    display: flex;
+}
