@@ -1,3 +1,9 @@
+To Do List:
+Starting to learn react, this mini project I learned how to use "Usestate" along with "compents" etc..
+Only function for now is clicking delete on an task and then have a modal show up and clicking "confirm" or "cancel" will close out modal
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
